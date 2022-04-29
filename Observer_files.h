@@ -4,6 +4,8 @@
 #include <iostream>
 #include <vector>
 #include <algorithm>
+#include <chrono>
+#include <thread>
 #include <QFile>
 #include <QString>
 #include <QTextStream>
